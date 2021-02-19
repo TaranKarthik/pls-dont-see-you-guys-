@@ -1,0 +1,52 @@
+body {
+background-image: url('background.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+    
+
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    color: white;
+    
+}
+
+.starting{
+    background: gray;
+}
+
+.heading_div {
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    
+}
+
+.heading_div2 {
+    font-size: 18px;
+}
+
+.result_para{
+    font-size: 20px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    color: white;
+    background: darkslategray;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+}
+
+canvas{
+    background: white;
+    box-shadow: 5px 5px 5px darkslategray;
+    margin-top: 100px;
+}
